@@ -9,6 +9,6 @@ class AboutController extends Controller
     //
     function index()
     {
-        echo "2141720004 || Alya Marliza Koesnanto";
+        echo "About Us";
     }
 }
