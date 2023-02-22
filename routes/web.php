@@ -14,5 +14,17 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    echo "Selamat Datang";
+});
+
+Route::get('/about', function () {
+    echo "2141720004 || Alya Marliza Koesnanto";
+});
+
+Route::get('/articles/{id}', function () {
+    echo "Halaman Artikel 1";
+});
+
+Route::get('/articles/{id}', function () {
+    echo "Halaman Artikel 2";
 });
