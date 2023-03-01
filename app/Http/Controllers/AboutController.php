@@ -7,8 +7,8 @@ use Illuminate\Http\Request;
 class AboutController extends Controller
 {
     //
-    function index()
+    function aboutus()
     {
-        echo "About Us";
+        return view(('aboutus'));
     }
 }

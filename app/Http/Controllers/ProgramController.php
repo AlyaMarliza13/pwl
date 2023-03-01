@@ -7,13 +7,8 @@ use Illuminate\Http\Request;
 class ProgramController extends Controller
 {
     //
-    function index()
+    function program()
     {
-        echo "
-        <ul>
-            <li>Kurir</li>
-            <li>Magang</li>
-            <li>Kunjungan Industri</li>
-            </ul>";
+        return view(('program'));
     }
 }

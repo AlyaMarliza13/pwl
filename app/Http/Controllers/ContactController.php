@@ -11,9 +11,9 @@ class ContactController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function contact()
     {
-        echo "Contact In Page";
+        return view(('contact'));;
         //
     }
 
