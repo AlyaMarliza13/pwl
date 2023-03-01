@@ -6,7 +6,7 @@
             <div class="container-fluid">
                 <div class="row mb-2">
                     <div class="col-sm-6">
-                        <h1>Profil</h1>
+                        <h1>Pengalaman Kuliah</h1>
                     </div>
                     <div class="col-sm-6">
                         <ol class="breadcrumb float-sm-right">
@@ -38,7 +38,12 @@
                     <div class="desc">
                         <p>Selama saya kuliah dalam kurun waktu 2 tahun ini, banyak ilmu yang saya dapatkan dan saya masih
                             berusaha untuk belajar sebaik
-                            dan semampu mungkin agar mendapatkan hasil terbaik.</p>
+                            dan semampu mungkin agar mendapatkan hasil terbaik.
+                            
+                            Semoga saya bisa menerima dengan lapang dada secepat mungkin dalam mengejar ilmu di Politeknik ini meskipun sampai 
+                            sekarang saya masih menyimpan rasa yang tidak bisa dijelaskan melalui perkataan.
+
+                            Semoga saya bisa melanjutkan jenjang perguruan tinggi saya dengan hati yang ikhlas dan tabah ^-^</p>
                     </div>
                 </div>
                 <!-- /.card-body -->
