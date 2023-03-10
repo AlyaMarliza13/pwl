@@ -79,6 +79,30 @@
                             Pengalaman Kuliah
                         </p>
                     </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/hobbies" class="nav-link">
+                        <i class="nav-icon fas fa-star"></i>
+                        <p>
+                            Hobi
+                        </p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/families" class="nav-link">
+                        <i class="nav-icon fas fa-house-user"></i>
+                        <p>
+                            Keluarga
+                        </p>
+                    </a>
+                    <li class="nav-item">
+                        <a href="/courses" class="nav-link">
+                            <i class="nav-icon fas fa-book"></i>
+                            <p>
+                                Mata Kuliah
+                            </p>
+                        </a>
+                    </li>
                     {{-- <ul class="nav nav-treeview">
                         <li class="nav-item">
                             <a href="../layout/top-nav.html" class="nav-link">
